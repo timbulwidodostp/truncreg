@@ -1,6 +1,8 @@
 # truncreg
 Truncated Gaussian Response Models Use truncreg With (In) R Software
 
+https://www.youtube.com/watch?v=CaP1_BC-T4o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
